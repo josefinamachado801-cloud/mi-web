@@ -1,0 +1,93 @@
+/* Trabajo práctico de Australia - 4to año */
+
+body {
+    background-color: #aae0d9;
+    color: #081235;
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    margin: 30px;
+}
+
+h1 {
+    color: #003b70;
+    font-size: 36px;
+    text-align: center;
+    border: 2px solid #003b70;
+    padding: 15px;
+}
+
+h2 {
+    color: #005c9e;
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+h3 {
+    font-size: 20px;
+    color: #004d80;
+}
+
+p {
+    text-align: justify;
+    margin: 15px 0;
+}
+
+.subtitulo {
+    text-align: center;
+}
+
+.menu {
+    background-color: #afc9e2;
+    border: 1px solid #b5d3ec;
+    padding: 15px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.menu h2 {
+    margin-top: 0;
+}
+
+a {
+    color: #004c91;
+}
+
+.destacado {
+    background-color: #9dc1dd;
+    border: 1px solid #a1d2f8;
+    margin-top: 25px;
+    padding: 20px;
+}
+
+.bandera {
+    display: block;
+    width: 60%;
+    min-width: 250px;
+    max-width: 650px;
+    height: auto;
+    margin: 20px auto;
+    border: 2px solid #333333;
+}
+
+.himno {
+    text-align: center;
+    background-color: rgb(149, 207, 224);
+    padding: 15px;
+    border: 1px solid #aaaaaa;
+}
+
+li {
+    margin: 10px 0;
+}
+
+.fotos {
+    text-align: center;
+}
+
+.fotos img {
+    width: 65%;
+    max-width: 600px;
+    height: auto;
+    border: 2px solid #555555;
+    margin: 10px 0 20px;
+}
